@@ -25,6 +25,6 @@ Original Dataset:
   - Transformed original dataset to image sequence by cropping 20 images from each original image
  
 [05_convlstm.ipynb](05_convlstm.ipynb)
-  - Experimented a ConvLSTM model to classify the image sequence
+  - Experimented a ConvLSTM model to classify image sequence
   
  
