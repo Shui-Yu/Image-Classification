@@ -22,9 +22,9 @@ Original Dataset:
   - Achieved training accuracy 98.1% and test accuracy 90.1%
   
 [04_image_cropping.ipynb](04_image_cropping.ipynb)
-  - Transformed original dataset to image sequence by cropping 20 images from each original image
+  - Transformed original dataset to image sequences by cropping 20 images from each original image
  
 [05_convlstm.ipynb](05_convlstm.ipynb)
-  - Experimented a ConvLSTM model to classify image sequence
+  - Experimented a ConvLSTM model to classify image sequences
   
  
